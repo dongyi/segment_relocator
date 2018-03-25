@@ -1,0 +1,7 @@
+function fetch() {
+
+}
+
+function push() {
+	
+}
